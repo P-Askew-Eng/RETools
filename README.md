@@ -2,7 +2,7 @@ RETools
 ====
 Some short scripts for renewable energy problems.
 
-All tools licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License unless specified otherwise - use at your own risk.
+All tools copyright Paul Askew 2015 and licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License unless specified otherwise - use at your own risk.
 
 
 http://creativecommons.org/licenses/by-nc-sa/4.0/
