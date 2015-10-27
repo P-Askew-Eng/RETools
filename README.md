@@ -7,5 +7,7 @@ All tools copyright Paul Askew 2015 and licensed under a Creative Commons Attrib
 
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 ## Contents
-* radarshadow.py- Calculate whether obstacle (e.g. a wind turbine is in line of sight, and if so determine shadow behind)
+* earthradius.py - Python function to calcualte radius of earth at a given latitude
 * lat2os.py - convert latitiude and longitude to OSGB coordinates.
+* radarshadow.py - Calculate whether obstacle (e.g. a wind turbine is in line of sight, and if so determine shadow behind)
+
